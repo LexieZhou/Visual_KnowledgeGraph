@@ -1,4 +1,5 @@
-# Decide
+# Decide [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13212857.svg)](https://doi.org/10.5281/zenodo.13212857)
+
 An interactive web tool that visualizes a weighted knowledge graph containing 2,376 version knowledge extracted from Stack Overflow discussions.
 
 ## Summary
@@ -55,3 +56,20 @@ Evaluation in our technical paper shows that Decide accurately identify 65% of k
 
 ## Video
 https://youtu.be/d7YUe2ahYWQ
+
+## Citation
+```
+@inproceedings{10.1145/3663529.3663796,
+  author = {Zhou, Zihan and Zhao, Zhongkai and Kou, Bonan and Zhang, Tianyi},
+  title = {Decide: Knowledge-Based Version Incompatibility Detection in Deep Learning Stacks},
+  year = {2024},
+  isbn = {9798400706585},
+  url = {https://doi.org/10.1145/3663529.3663796},
+  doi = {10.1145/3663529.3663796},
+  booktitle = {Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering},
+  pages = {547–551},
+  numpages = {5},
+  location = {Porto de Galinhas, Brazil},
+  series = {FSE 2024}
+}
+```
